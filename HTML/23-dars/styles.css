@@ -1,0 +1,28 @@
+#login {
+    background-color: rgb(78, 233, 117);
+    font-style: italic;
+    font-weight: bold;
+    margin-top: 20px;
+    font-size: larger;
+    text-align: center;
+    font: optional;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+#gender {
+    color: rgb(160, 8, 8);
+    font-weight: bold;
+}
+
+#sigup {
+    text-align: center;
+}
+
+#save {
+    text-align: center;
+    background-color: orange;
+}
+
+#about {
+    background-color: bisque;
+}

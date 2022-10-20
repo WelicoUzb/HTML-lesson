@@ -1,0 +1,31 @@
+.mavzu {
+    color: red;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.text {
+    color: blue;
+    text-align: center;
+    opacity: 0.33;
+    font-style: italic;
+}
+
+.sarlavha {
+    color: green;
+    text-align: left;
+}
+
+.matn {
+    color: orange;
+    text-align: left;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.size {
+    font-size: 38px;
+}

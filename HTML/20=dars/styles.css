@@ -1,0 +1,18 @@
+#dastur {
+    background-color: chartreuse;
+    margin-top: 5px;
+}
+
+.video {
+    background-color: rgb(224, 170, 131);
+    margin-top: 5px;
+}
+
+#mavzu {
+    background-color: cyan;
+}
+
+.gread {
+    color: green;
+    font-style: italic;
+}

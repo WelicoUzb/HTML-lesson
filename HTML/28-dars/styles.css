@@ -1,0 +1,61 @@
+#photo {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+.profil {
+    text-align: center;
+    background-color: rgb(180, 234, 125);
+}
+
+.experience {
+    background-color: rgb(246, 235, 86);
+}
+
+#email {
+    font-style: italic;
+}
+
+#name {
+    font-style: italic;
+}
+
+#epam {
+    color: green;
+    font-style: italic;
+}
+
+#ecma {
+    color: green;
+    font-style: italic;
+}
+
+.lesson {
+    background-color: lightpink;
+}
+
+.job {
+    color: green;
+    font-style: italic;
+}
+
+#lessonId {
+    color: red;
+    font-weight: bold;
+}
+
+table {
+    width: 100%;
+    background-color: lightskyblue;
+}
+
+footer {
+    text-align: center;
+    font-style: italic;
+}
+
+.field {
+    margin-bottom: 10px;
+    font-style: italic;
+}

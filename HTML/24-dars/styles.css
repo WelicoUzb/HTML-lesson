@@ -1,0 +1,41 @@
+.control {
+    font-size: 25px;
+    text-align: center;
+    margin-top: 5px;
+}
+
+header {
+    background-color: rgb(193, 157, 66);
+    height: 100px;
+    line-height: 100px;
+}
+
+nav {
+    height: 100px;
+    line-height: 100px;
+    background-color: greenyellow;
+}
+
+section {
+    background-color: deepskyblue;
+    height: 500px;
+    width: 75%;
+    line-height: 500px;
+    float: left;
+}
+
+aside {
+    height: 500px;
+    line-height: 500px;
+    background-color: hotpink;
+    width: 25%;
+    float: left;
+}
+
+footer {
+    height: 150px;
+    line-height: 150px;
+    float: left;
+    background-color: rgb(195, 193, 84);
+    width: 100%
+}

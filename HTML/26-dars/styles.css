@@ -1,0 +1,27 @@
+.audio {
+    background-color: orange;
+    text-align: center;
+}
+
+.music {
+    background-color: rgb(68, 199, 68);
+    text-align: center;
+    font-style: italic;
+}
+
+#mavzu1 {
+    background-color: burlywood;
+}
+
+#lesson1 {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.lesson {
+    background-color: burlywood;
+}
+
+.video {
+    background-color: rgb(9, 9, 4);
+}

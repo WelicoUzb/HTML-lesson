@@ -1,0 +1,17 @@
+#asosiy {
+    color: red;
+    text-align: center;
+    font-weight: bold;
+}
+
+#sahifa {
+    color: green;
+    text-align: left;
+    font-style: italic;
+}
+
+#matn {
+    color: orange;
+    text-align: left;
+    font-style: italic;
+}

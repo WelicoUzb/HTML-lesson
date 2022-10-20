@@ -1,0 +1,15 @@
+h1 {
+    opacity: 0.3;
+    color: red;
+}
+
+p {
+    color: green;
+    text-align: center;
+    font-weight: bold;
+}
+
+h2 {
+    color: blue;
+    text-align: center;
+}

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>Forms 3-lesson</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div id="login">
+        <form action="/server.php" method="GET">
+            <h1 id="sigup"> Register</h1>
+            <label for="Otabek2004">Username</label>
+            <input type="text" name="username" id="Otabek2004"><br><br>
+            <label for="27052004">Password</label>
+            <input type="password" name="password" id="27052004"><br><br>
+            <label for="email">Email</label>
+            <input type="email" name="email" id="email"><br><br>
+            <label for="date">Happy birthday</label>
+            <input type="date" name="date" id="date"><br><br>
+            <label for="checkbox">Student</label>
+            <input type="checkbox" name="checkbox" id="checkbox"><br>
+            <p id="gender">Jinsingizni tanlang !</p>
+            <label for="male">Male</label>
+            <input type="radio" name="gender" value="male" id="male">
+            <label for="female">Female</label>
+            <input type="radio" name="gender" value="female" id="female"><br><br>
+            <label for="passport">Passport</label>
+            <input type="file" name="passport" id="passport"><br><br>
+            <label for="experience">Experience (year)</label>
+            <select name="experience" id="experience">
+                 <option value="0">Tajribam yuq</option>
+                 <option value="1">1 yildan ozroq tajribam bor</option>
+                 <option value="2">1 yildan ko'proq tajribam bor</option>
+                 <option value="3">3 yildan ko'proq tajribam bor</option>
+                 <option value="4">5 yildan ko'proq tajribam bor</option>
+                 <option value="5">10 yildan ko'proq tajribam bor</option>
+            </select><br><br>
+            <label for="about">AvtoBiografia</label><br>
+            <textarea id="about" name="about" rows="8" cols="50"></textarea><br><br>
+            <button type="submit" id="save">Save</button>
+        </form>
+    </div>
+</body>
+
+</html>
